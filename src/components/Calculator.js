@@ -1,8 +1,8 @@
 /* eslint-disable */
-import React, { Component } from 'react';
+import React from 'react';
 import './Calculator.css';
 
-export default class Calculator extends Component {
+export default class Calculator extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
