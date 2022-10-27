@@ -35,7 +35,7 @@ export default class Calculator extends React.Component {
         />
         <Button
           typeBtn="."
-          btnOnclick={this.btnOnClick}
+          btnOnClick={this.btnOnClick}
           btnClass="btn-light btn-dot"
         />
         <Button
