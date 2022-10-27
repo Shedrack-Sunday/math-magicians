@@ -14,7 +14,7 @@
 - CSS
 
 ## Live Image:
-[](readme.png)
+[screenshot](./readme.png)
 
 ## Getting started:
 
