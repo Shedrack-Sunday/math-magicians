@@ -11,10 +11,10 @@
 - JXS
 - React
 - VsCode
+- CSS
 
-## Live Demo:
-
-[In production...loading](https://livedemo.com)
+## Live Image:
+[](readme.png)
 
 ## Getting started:
 
