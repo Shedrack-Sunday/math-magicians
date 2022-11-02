@@ -25,6 +25,18 @@ describe('Testing calculate.js file', () => {
       total: '5',
     });
   });
+  it('Test minus 5 - 2 = 3 operation', () => {
+    const obj = {
+      total: '5',
+      next: '2',
+      operation: '-',
+    };
+    expect(calculate(obj, '=')).toStrictEqual({
+      next: null,
+      operation: null,
+      total: '3',
+    });
+  });
   it('Test divede 2 / 2 = 1 operation', () => {
     const obj = {
       total: '2',
