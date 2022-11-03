@@ -13,8 +13,8 @@
 - VsCode
 - CSS
 
-## Live Image:
-[screenshot](./readme.png)
+## Live Link:
+[view here ](https://meek-khapse-494af5.netlify.app/)
 
 ## Getting started:
 
